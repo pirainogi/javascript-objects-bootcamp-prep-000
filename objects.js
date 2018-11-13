@@ -4,7 +4,7 @@ const playlist = {
 };
 
 function updatePlaylist(playlist, artistName, songTitle){
-  playlist[]
+  playlist[artistName]
 }
 
 function removeFromPlaylist(object, artistName){
